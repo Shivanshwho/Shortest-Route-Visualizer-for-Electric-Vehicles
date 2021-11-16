@@ -77,7 +77,7 @@ glad to work with you.
 
 ## Project Admin 👨🏻‍💻
 
-|                                                                                         <a href="https://shivamsahu.netlify.app/"><img src="https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles/blob/main/assets/shivam.png" width=150px height=160px /></a>                                                                                         |
+|                                                                                         <a href="https://shivanshwho.github.io"><img src="https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles/blob/main/assets/shivam.png" width=150px height=160px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Shivanshu Sanjeev](https://shivanshwho.github.io/)**                                                                                                                                        |
 | <a href="https://www.instagram.com/_iam_shivanshu/"><img src="https://user-images.githubusercontent.com/56252259/114969025-24d22680-9e95-11eb-848d-b20e73269c4c.png" width="32px" height="32px"></a> <a href="https://twitter.com/Shivanshwho"><img src="https://user-images.githubusercontent.com/56252259/114967867-d6bc2380-9e92-11eb-8f89-c437f39a45de.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/shivanshu-sanjeev/"><img src="https://user-images.githubusercontent.com/56252259/114967871-d7ed5080-9e92-11eb-8781-cd7cf9bb52db.png" width="32px" height="32px"></a> |
@@ -98,6 +98,6 @@ For major changes, you are welcome to open an issue to discuss what you would li
 **Drop a star ⭐ if you find this project interesting!**
 
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 By Shivam Sahu   
+   Made with ❤️ in 🇮🇳 By Shivanshu Sanjeev   
 </p>
 
